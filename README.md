@@ -54,5 +54,5 @@ Esta metodologia nos ayuda bastante, dado que podemos representar los datos MUND
 ## Mapa de la República Dominicana - [GEOJSON](https://github.com/jeancharlyjs/RepublicaDominicana-GEOJSON/blob/main/Republica%20Dominicana/geojson/DominicanRepublic.geojson)
 ![República Dominicana - Mapa](https://github.com/jeancharlyjs/RepublicaDominicana-GEOJSON/blob/main/imagenes/MapRepDominicana.png)
 
-## Mapa Provincial de la República Dominicana - [GEOJSON]
+## Mapa Provincial de la República Dominicana - [GEOJSON](https://github.com/jeancharlyjs/RepublicaDominicana-GEOJSON/tree/main/Provincias)
 ![San Juan - Provincia - Mapa](https://github.com/jeancharlyjs/RepublicaDominicana-GEOJSON/blob/main/imagenes/San%20Juan%20-%20Provincia.png)
