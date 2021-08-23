@@ -1,5 +1,8 @@
 # República Dominicana GEOJSON
 
+## Breve Presentación
+![Presentacion](https://github.com/jeancharlyjs/GEOJSON-RepublicaDominicana/blob/main/imagenes/gif/Tutorial%20Maps..gif)
+
 ## GEOJSON
 Es un formado que contiene datos GeoEspacial, de lo cual, podemos utilizar para representar dichos datos en un mapa Cartografico. La estructura que este posee es de tipo *JSON* -> "JavaScript Object Notation", esta representando por *KEY* y *VALUE*.
 
