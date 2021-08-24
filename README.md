@@ -19,9 +19,9 @@ Esta metodologia nos ayuda bastante, dado que podemos representar los datos MUND
 ### Tabla
 
 
-| object | codigoProvincia | Provincias | geometry | CualquierOtroValor1 | CualquierOtroValor2 |
-|---|---|---|---|---|---|
-| 01 | 01 | Distrito Nacional |MULTIPOLYGON[[-69.97480276199997, 18.545267730000035], [-69.97461923299994, 18.545253203000073], ...]] | 25 | 100
+| object | codigoProvincia | Enlace | Toponimia | geometry | CualquierOtroValor1 | CualquierOtroValor2 |
+|---| --- | ---|---|---|---|---|
+| 01 | 01 | 1001 | Distrito Nacional |MULTIPOLYGON[[-69.97480276199997, 18.545267730000035], [-69.97461923299994, 18.545253203000073], ...]] | 25 | 100
 ```
 {
   "type": "FeatureCollection",
