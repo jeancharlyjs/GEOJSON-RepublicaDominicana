@@ -31,8 +31,8 @@ Esta metodologia nos ayuda bastante, dado que podemos representar los datos MUND
               "type": "Feature",
               "properties": {
                     "object": "01",
-                    "codigoProvincia" : "01"
-                    "Enlace" : "1001"
+                    "codigoProvincia" : "01",
+                    "Enlace" : "1001",
                     "Toponimia": "Distrito Nacional",
                     "geometry": {
                               "type": "MultiPolygon",
