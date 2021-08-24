@@ -1,6 +1,4 @@
-# Region
-
-## Tabla
+# Region e la República Dominicana
 
 | Region | Toponimia |
 | --- | --- |
